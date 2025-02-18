@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'core',
     'patients',
     'examinations',
-    'treatments',
+    'treatment',
     'medications',
     'documentation'
 ]
